@@ -163,7 +163,8 @@ Below includes an example of a small and a large project to enable you to size y
 
 Before reaching out, please ensure that your project has been fully ported, tested, and released, as we do not review work that is still in progress. Your submission must be publicly available and it is under a Open Source License. 
 
-When your work is ready,  Please fill out RISE RISC-V Appreciation Pilot Program Submission and include the following information:
+
+When your work is ready,  Please Submit your contribution in a comment under[ Issue #1](https://github.com/Rise-dev-appreciation/RISE-Dev-Appreciation-/issues/1) on the[ RISE Developer Appreciation GitHub](https://github.com/Rise-dev-appreciation?tab=repositories)<span style="text-decoration:underline;"> </span>and include the following information:
 
 
 
@@ -175,6 +176,7 @@ When your work is ready,  Please fill out RISE RISC-V Appreciation Pilot Program
 The more detailed and clear your submission, the faster and more efficiently RISE can process your request. 
 
 Please submit by the 15th of the month, and you will receive a response by the 30th. If you miss this deadline, no worries—you can always submit in the next cycle. Payments will be issued in the first week of the month following submission approval.
+
 
 
 # Submissions Review Process
