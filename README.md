@@ -16,13 +16,11 @@ The goal is to make RISC-V support an integral part of every developer’s workf
 
 # Overview
 
-Drawing inspiration from the success of  security bug bounty programs by companies like [Google](https://bughunters.google.com/about/rules/google-friends/6625378258649088/google-and-alphabet-vulnerability-reward-program-vrp-rules) and [Microsoft](https://www.microsoft.com/en-us/msrc/bounty-terms?rtc=1), we are adopting a more proactive approach. Rather than focusing on individual  projects, we aim to recognize and appreciate the efforts of the software communities and developers who actively port their projects to RISC-V, fostering broader engagement and growth within the ecosystem. 
+The RISE RISC-V Developer Appreciation Pilot Program recognizes the contributions of software communities and developers who port their projects to RISC-V, driving broader engagement and growth in the ecosystem. The program prioritizes enabling projects on RISC-V over maximizing performance, ensuring it becomes a standard within the software landscape. For more complex initiatives, the RFP program is better suited. 
 
-The RISE RISC-V Developer Appreciation Pilot Program aims to prioritze enabling projects on RISC-V over maximizing performance, ensuring that RISC-V becomes a standard in the software ecosystem. For more complex efforts the RFP program is better suited.  
+The Pilot program will run from October 2024 to March 2025, with a total budget of up to 50,000 EUR. All submitted work must be upstreamed, released, and publicly available. 
 
-The Pilot program will run from October 2024 to March 2025, with a total budget of up to 50,000 EUR. All submitted work must be upstreamed, released, and publicly available. 
-
-Contributions will be categorized based on the estimated effort required for each project’s porting. 
+Contributions will be categorized based on the estimated effort required for each project’s porting. 
 
 
 <table>
