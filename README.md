@@ -1,7 +1,7 @@
-# **RISE RISC-V Developers Appreciation Pilot Program**
+# RISE RISC-V Developers Appreciation Pilot Program
 
 
-# **About**
+# About
 
 Bringing the RISC-V architecture on par with other architectures requires broader software support. RISE recognizes the scale of this challenge, and the critical role of the wider developer community plays in reaching this goal.
 
@@ -12,7 +12,7 @@ To bridge this gap, RISE is introducing the RISC-V Developer Appreciation Pilot 
 The goal is to make RISC-V support an integral part of every developer’s workflow, positioning RISC-V as the standard platform for all projects. This initiative seeks to foster collaboration and celebrate the contributions of developers, driving momentum for the RISC-V ecosystem. 
 
 
-# **Overview**
+# Overview
 
 The Pilot Program recognizes the contributions of software communities and developers who port their projects to RISC-V, driving broader engagement and growth in the ecosystem. The program prioritizes enabling projects on RISC-V over maximizing performance, ensuring it becomes a supported standard within the software landscape. For more complex initiatives, the RFP program is better suited. 
 
@@ -50,14 +50,14 @@ Contributions will be categorized based on the estimated effort required for eac
 
 
 
-# **Projects**
+# Projects
 
 The Pilot Program is dedicated exclusively to “Open Source Software” (under an open source software license recognized by the Open Source Initiative).  Commercial projects are outside the scope of this program. RISE does not claim ownership rights to your Submission. 
 
 You represent and warrant that your Submission is your own work, that you haven't submitted work done by another person or entity, and that you have the right to provide the Submission.
 
 
-## **Sizing Examples**
+## Sizing Examples
 
 Examples of small and large project Submissions are included below to enable you to size your project.
 
@@ -168,7 +168,7 @@ Examples of small and large project Submissions are included below to enable you
 
 
 
-# **Submission Process**
+# Submission Process
 
 Before reaching out, please ensure that your project has been fully ported, tested, and released, as we do not review work that is still in progress. Your Submission must be publicly available and under an Open Source License. 
 
@@ -185,7 +185,7 @@ When your work is ready,  Please Submit your contribution in a comment under[ Is
 The more detailed and clear your submission, the faster and more efficiently RISE can process your request for Pilot Program recognition. 
 
 
-# **Submissions Review Process**
+# Submissions Review Process
 
 RISE has complete discretion over whether to recognize Submissions or not. No contributor should expect recognition for their current or future contributions to an Open Source Software project.
 
@@ -196,21 +196,19 @@ Only Submissions that integrate linux-riscv64 into the project’s standard test
 RISE will not tolerate any abuse of the program. If any project or community encounters issues related to the Pilot Program, please contact info@riseproject.dev for resolution. 
 
 
-# **Payment Process**
+## Payment Process
 
 We will generally review your Submission and provide a response by the 15th of the month following your Submission. All payments will be processed through GitHub Sponsors, so a GitHub account is required to receive a financial recognition. Please note that only individuals and organizations participating in the[ GitHub Sponsors](https://github.com/sponsors) Program are eligible for rewards.
 
 Payments will generally be issued in the first week of the month following submission approval.
 
 
-# **Public Recognition **
+# Public Recognition
 
 RISE may publicly recognize developers who have been received recognition under the Pilot Program. RISE, at its discretion, may recognize your contribution on a website, blog and social media.
 
 
-# **Terms**
-
-
+# Terms
 
 * RISE reserves the right to change or terminate this Pilot Program at any time. Any Submission under the Pilot Program is subject to the program details and terms available at that time. 
 * Do not undertake any contribution or work with an expectation of a recognition payment for a future Submission. This is a Pilot Program with a limited budget for reward payments. Once the budget has been exhausted, RISE will not make any additional recognition payments under this Pilot Program. Consequently, some qualifying Submissions may receive reduced recognition payments or no recognition payments at all. Therefore, it is possible that your Submission could qualify for a recognition payment, yet no recognition payment will be issued. RISE is not responsible for Submissions that we do not receive for any reason.
@@ -220,7 +218,7 @@ RISE may publicly recognize developers who have been received recognition under 
 * All decisions made by RISE are final. If you do not receive a confirmation email after making your Submission, notify info@risedev.com to ensure your Submission was received.
 
 
-# **Eligibility **
+# Eligibility
 
 All participants must be eligible to use the GitHub Sponsor’s program, available at[ https://docs.github.com/en/site-policy/github-terms/github-sponsors-additional-terms](https://docs.github.com/en/site-policy/github-terms/github-sponsors-additional-terms)
 
