@@ -174,10 +174,7 @@ Before reaching out, please ensure that your project has been fully ported, test
 
 When your work is ready,  Please Submit your contribution in a comment under[ Issue #1](https://github.com/Rise-dev-appreciation/RISE-Dev-Appreciation-/issues/1) on the[ RISE Developer Appreciation GitHub](https://github.com/Rise-dev-appreciation?tab=repositories)<span style="text-decoration:underline;"> </span>and include the following information:
 
-·        **Project Name and Description:** Provide a brief overview (1 to 5 sentences) highlighting your project’s community usage and its significance within the broader RISC-V software stack. 
-
-
-
+* **Project Name and Description:** Provide a brief overview (1 to 5 sentences) highlighting your project’s community usage and its significance within the broader RISC-V software stack. 
 * **Contribution Links:** Share links to your contributions that support your request. These contributions must be publicly accessible without requiring login or account creation. 
 * **GitHub Profile Link:** Include a link to your GitHub profile.
 * **Request Reward Size:** Specify the amount you are requesting and explain why. Please refer to the Size table for details on what is expected for each reward level. 
