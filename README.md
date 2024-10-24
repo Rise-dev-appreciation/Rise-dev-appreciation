@@ -172,7 +172,7 @@ Examples of small and large project Submissions are included below to enable you
 
 Before reaching out, please ensure that your project has been fully ported, tested, and released, as we do not review work that is still in progress. Your Submission must be publicly available and under an Open Source License. 
 
-When your work is ready,  Please Submit your contribution in a comment under[ Issue #1](https://github.com/Rise-dev-appreciation/RISE-Dev-Appreciation-/issues/1) on the[ RISE Developer Appreciation GitHub](https://github.com/Rise-dev-appreciation?tab=repositories)<span style="text-decoration:underline;"> </span>and include the following information:
+When your work is ready,  Please Submit your contribution in a new Issue on the[ RISE Developer Appreciation GitHub](https://github.com/Rise-dev-appreciation?tab=repositories)<span style="text-decoration:underline;"> </span>and include the following information:
 
 * **Project Name and Description:** Provide a brief overview (1 to 5 sentences) highlighting your project’s community usage and its significance within the broader RISC-V software stack. 
 * **Contribution Links:** Share links to your contributions that support your request. These contributions must be publicly accessible without requiring login or account creation. 
