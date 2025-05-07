@@ -207,6 +207,7 @@ RISE may publicly recognize developers who have been received recognition under 
 
 # Terms
 
+* RISE Appreciation Program is for individual contributor's self contributions (aka, not "representing a team" for example)
 * RISE reserves the right to change or terminate this Pilot Program at any time. Any Submission under the Pilot Program is subject to the program details and terms available at that time. 
 * Do not undertake any contribution or work with an expectation of a recognition payment for a future Submission. This is a Pilot Program with a limited budget for reward payments. Once the budget has been exhausted, RISE will not make any additional recognition payments under this Pilot Program. Consequently, some qualifying Submissions may receive reduced recognition payments or no recognition payments at all. Therefore, it is possible that your Submission could qualify for a recognition payment, yet no recognition payment will be issued. RISE is not responsible for Submissions that we do not receive for any reason.
 * RISE also reserves the right to refuse payment at its sole discretion if it believes a submission undermines the spirit of this Pilot Program or if making the recognition payment would be illegal. 
