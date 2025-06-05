@@ -7,16 +7,15 @@ Bringing the RISC-V architecture on par with other architectures requires broade
 
 To accelerate progress, RISE launched the RFP (Request For Proposal) program in 2023, providing funding and support for large-scale projects. However, while the RFP program aids major initiatives, many smaller projects only need minor adjustments to be tested and deployed on RISC-V. 
 
-To bridge this gap, RISE is introducing the RISC-V Developer Appreciation Program (the “Program**”**), which focuses on recognizing and supporting developers working on these smaller efforts, including porting, testing, and releasing on RISC-V.
+To bridge this gap, RISE is introducing the RISC-V Developer Appreciation Program (the “Program”), which focuses on recognizing and supporting developers working on these smaller efforts, including porting, testing, and releasing on RISC-V.
 
 The goal is to make RISC-V support an integral part of every developer’s workflow, positioning RISC-V as the standard platform for all projects. This initiative seeks to foster collaboration and celebrate the contributions of developers, driving momentum for the RISC-V ecosystem. 
-
 
 # Overview
 
 The Program recognizes the contributions of software communities and developers who port their projects to RISC-V, driving broader engagement and growth in the ecosystem. The program prioritizes enabling projects on RISC-V over maximizing performance, ensuring it becomes a supported standard within the software landscape. For more complex initiatives, the RFP program is better suited. 
 
-The Program will run from October 2024 to March 2025, with a total budget of up to 50,000 EUR. All work submitted for recognition (each, a “Submission”) must be upstreamed, released, and publicly available. 
+The Program will run from October 2024, with a total budget of up to 50,000 EUR. All work submitted for recognition (each, a “Submission”) must be upstreamed, released, and publicly available. 
 
 Contributions will be categorized based on the estimated effort required for each project’s porting. 
 
