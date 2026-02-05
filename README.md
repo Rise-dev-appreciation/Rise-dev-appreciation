@@ -47,7 +47,13 @@ Contributions will be categorized based on the estimated effort required for eac
   </tr>
 </table>
 
+# AI policy 
 
+- Any work performed must conform to upstream project policies, guidelines, and rules.  This includes policies around code generation tool usage, such as AI tools.
+
+- Any work generated either wholly, or in part, by code generation tools, including AI tools, must carry a disclosure of the tool used.
+
+- If upstream project policies permit the use of code generation tools, including AI tools, then only code generation tools that have been trained exclusively on content with licenses compatible with the upstream project's license are allowed to be used.
 
 # Projects
 
@@ -221,7 +227,7 @@ All participants must be eligible to use the GitHub Sponsor’s program, availab
 
 GitHub Sponsors requires your compliance with additional eligibility and program terms related to any recognition payment, including age eligibility, taxes, fees, sanctions, and other terms which you must agree with prior to making any Submission.
 
-Employees of RISE sponsoring companies are not eligible for a recognition payment.
+Employees or contractors working for RISE members, or current RISE vendors (such as contracting firms), are not eligible for this program.
 
 It is your responsibility to comply with any policies that your employer may have that would affect your eligibility to participate in the Program. If you are participating in violation of your employer’s policies, you may be disqualified from participating or receiving any recognition payment. 
 
